@@ -18,8 +18,8 @@ Please visit our website at www.casia-cxr.net
 If you find the dataset useful for your research projects, please cite our paper:
 
 ```bash
-  @article{XXXX
-}
+  @article{XXXX}
+
 ```
 
 ## Contact
