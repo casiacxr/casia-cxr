@@ -18,11 +18,7 @@ Please visit our website at www.casia-cxr.net
 If you find the dataset useful for your research projects, please cite our paper:
 
 ```bash
-  @article{CASIA-CXR,
-  author={Hichem Metmer, Xiaoshan Yang and Changsheng Xu},
-  journal={ACM Transactions on Multimedia Computing, Communications, and Applications, TOMM, IF: 3.144}, 
-  title={CASIA-CXR: An Open Dataset of Chest X-rays with Benchmarks on Automatic Radiology Report Generation}, 
-  year={2023},
+  @article{XXXX
 }
 ```
 
