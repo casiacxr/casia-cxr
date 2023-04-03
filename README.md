@@ -23,4 +23,4 @@ If you find the dataset useful for your research projects, please cite our paper
 ```
 
 ## Contact
-Questions and comments? please contact us at info at casia-cxr.net
+Questions and comments? please contact us: **info at casia-cxr.net**
