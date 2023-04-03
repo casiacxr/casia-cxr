@@ -6,7 +6,8 @@ Automated medical report generation is a challenging cross-domain task that aims
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Pipeline BBuilding Our Dataset](https://nokhba-china.com/assets/images/service/02.jpg)
+
 
 
 
