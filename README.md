@@ -8,19 +8,6 @@ Automated medical report generation is a challenging cross-domain task that aims
 ![Pipeline BBuilding Our Dataset](https://metmer.net/CASIA-CXR/Web/assets/images/xrays/Build.jpg)
 
 
-## Download CASIA-CXR dataset
-Please visit our website at www.casia-cxr.net
+## Title here
+X
 
-## Code/Model/...
-To be updated.
-
-## Citation
-If you find the dataset useful for your research projects, please cite our paper:
-
-```bash
-  @article{XXXX}
-
-```
-
-## Contact
-Questions and comments? please contact us: **info at casia-cxr.net**
