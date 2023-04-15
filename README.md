@@ -2,10 +2,6 @@
 
 XXXX
 
-## Code
-XXXX
-
-
 ## Citation
 If you find the dataset useful for your research projects, please consider to cite our paper:
 
