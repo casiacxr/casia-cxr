@@ -7,7 +7,7 @@ Automatic radiology report generation is a cross-domain task that aims to produc
 Please refer to our website at: www.casia-cxr.net
 
 ## Citation
-If you find the dataset useful for your research projects, please consider to cite our paper:
+If you find our dataset useful for your research projects, please consider to cite our paper:
 
 ```bash
   @article{X,
